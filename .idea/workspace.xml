@@ -4,14 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5f7dcfb-9d8c-4091-b66d-0168067c30bf" name="Changes" comment="" />
+    <list default="true" id="f5f7dcfb-9d8c-4091-b66d-0168067c30bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/AnimalDansMauvaisSevcteurException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/AnimalDansMauvaisSevcteurException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/LimiteVisiteurException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/LimiteVisiteurException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/IZooService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/IZooService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Chien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Chien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Secteur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Secteur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/TypeAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/TypeAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Service/ZooService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/ZooService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XzJzdtLFBqYjaty8mFZl3BQW27" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,10 +49,33 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false"
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/ahmed/Desktop/TestCoursClassroom",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Model.App" />
+      <module name="TP1ahmed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +84,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699626240913</updated>
+      <workItem from="1699626242740" duration="8175000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Service/ZooService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Service/ZooService.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

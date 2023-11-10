@@ -1,2 +1,4 @@
-package Model;public class Chat {
+package Model;
+
+public class Chat extends Animal{
 }

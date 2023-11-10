@@ -1,2 +1,5 @@
-package Model;public enum TypeAnimal {
+package Model;
+
+public enum TypeAnimal {
+    HERBIVORE,CARNIVORE
 }

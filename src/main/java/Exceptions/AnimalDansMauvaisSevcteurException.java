@@ -1,4 +1,4 @@
-package Exception;
+package Exceptions;
 
 public class AnimalDansMauvaisSevcteurException extends Exception {
     public AnimalDansMauvaisSevcteurException(String message) {
